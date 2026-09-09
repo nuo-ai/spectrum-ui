@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://ui.spectrumhq.in">
-  <img src=".github/assets/hero.png" alt="Spectrum UI" width="960">
+  <img src="https://ui.spectrumhq.in/og.png" alt="Spectrum UI" width="960">
 </a>
 
 <h1>Spectrum UI</h1>
